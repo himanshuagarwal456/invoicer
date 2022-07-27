@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/himanshuagarwal456/invoicer/static/css/main.8043ba4f.css",
+    "main.js": "/himanshuagarwal456/invoicer/static/js/main.518c362c.js",
+    "index.html": "/himanshuagarwal456/invoicer/index.html",
+    "main.8043ba4f.css.map": "/himanshuagarwal456/invoicer/static/css/main.8043ba4f.css.map",
+    "main.518c362c.js.map": "/himanshuagarwal456/invoicer/static/js/main.518c362c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8043ba4f.css",
+    "static/js/main.518c362c.js"
+  ]
+}
