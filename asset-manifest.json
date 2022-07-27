@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/himanshuagarwal456/invoicer/static/css/main.8043ba4f.css",
-    "main.js": "/himanshuagarwal456/invoicer/static/js/main.518c362c.js",
-    "index.html": "/himanshuagarwal456/invoicer/index.html",
-    "main.8043ba4f.css.map": "/himanshuagarwal456/invoicer/static/css/main.8043ba4f.css.map",
-    "main.518c362c.js.map": "/himanshuagarwal456/invoicer/static/js/main.518c362c.js.map"
+    "main.css": "/invoicer/static/css/main.8043ba4f.css",
+    "main.js": "/invoicer/static/js/main.518c362c.js",
+    "index.html": "/invoicer/index.html",
+    "main.8043ba4f.css.map": "/invoicer/static/css/main.8043ba4f.css.map",
+    "main.518c362c.js.map": "/invoicer/static/js/main.518c362c.js.map"
   },
   "entrypoints": [
     "static/css/main.8043ba4f.css",
